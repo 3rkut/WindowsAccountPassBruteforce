@@ -1,7 +1,7 @@
 # Windows O.S Account Password Bruteforce Tool
 
 <p align = "center">
-	<img src="https://github.com/malwarehenri/WindowsAccountPassBruteforce/img.jpg">
+	<img src="https://github.com/malwarehenri/WindowsAccountPassBruteforce/blog/img.jpg">
 	<br/>
 
 # What is this tool ?
